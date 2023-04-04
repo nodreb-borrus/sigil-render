@@ -6,8 +6,7 @@
     "@babel/core": "^7.21.4",
     "@babel/node": "^7.20.7",
     "@babel/preset-env": "^7.21.4",
-    "@tlon/sigil-js": "^1.4.5",
-    "urbit-ob": "^5.0.1"
+    "@tlon/sigil-js": "^1.4.5"
   },
   "scripts": {
     "gen": "babel-node --presets '@babel/preset-env' ./generate.js"

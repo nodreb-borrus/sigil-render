@@ -10,7 +10,7 @@ function generateSigil(folder, name) {
     patp: n,
     renderer: stringRenderer,
     size: 550,
-    colors: ["#aaaaaa","#ffffff"]
+    colors: ["#232323","#ffffff"]
   });
 
   if (!fs.existsSync(folder)){
